@@ -1,7 +1,5 @@
-# R Projects Development Template
+# Deploying a tutorial created with learnr
 
-This repo provides a starting template for a containerized development environment for my R projects in data science and Shiny application development, tailored to both the RStudio IDE as well as Visual Studio Code. For a more detailed description, please see the [`.devcontainer/README.md`](.devcontainer/README.md)),
+This repository is the source of tutorials/screencasts for different ways to deploy a tutorial created with the [`{learnr}`](https://rstudio.github.io/learnr) package. Here are the included deployment tutorials as of this writing:
 
-🎥 Check out this previous [Shiny Developer Series livestream](https://youtu.be/4wRiPG9LM3o) for a hands-on walkthrough of this setup!
-
-
+* [Deployment to `shinyapps.io`](docs/README.md)
