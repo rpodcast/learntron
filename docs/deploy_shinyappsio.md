@@ -6,9 +6,9 @@ This document details multiple approaches to deploying a tutorial created with t
 
 The steps in this tutorial draw from these excellent resources:
 
-* link 1
-* link 2
-* link 3
+* Publishing on shinyapps.io [vignette](https://rstudio.github.io/learnr/articles/shinyapps-publishing.html)
+* Basics on publishing `learnr` tutorials [vignette](https://pkgs.rstudio.com/learnr/articles/publishing.html) 
+* Deploying Shiny Documents [chapter](https://bookdown.org/yihui/rmarkdown/shiny-deploy.html) from [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown)
 
 ## Pre-requisites
 
