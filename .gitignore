@@ -4,3 +4,7 @@
 .RData
 .Ruserdata
 .DS_Store
+.Renviron
+
+# deployment artifacts
+tron/rsconnect/*
